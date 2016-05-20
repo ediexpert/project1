@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<questions>
+  <question>
+    <type>1</type>
+    <question_txt>How many fingers are there in one hand?</question_txt>
+    <image>5579b816256748c71590ec06054d4172.jpg</image>
+  </question>
+  <question>
+    <type>1</type>
+    <question_txt>first law of newton?</question_txt>
+    <image></image>
+  </question>
+  <question>
+    <type>2</type>
+    <question_txt> gheto mata bisscouty Lerso parso affinlo single gheto mata bisscouty  Lerso parso?</question_txt>
+    <image>0</image>
+  </question>
+  <question>
+    <type>2</type>
+    <question_txt>Lerso parso affinlo single gheto mata bisscouty?</question_txt>
+    <image>0</image>
+  </question>
+  <question>
+    <type>1</type>
+    <question_txt>beef is?</question_txt>
+    <image></image>
+  </question>
+  <question>
+    <type>1</type>
+    <question_txt>GSM stands for?</question_txt>
+    <image></image>
+  </question>
+</questions>
